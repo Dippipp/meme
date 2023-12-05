@@ -14,7 +14,7 @@ h1{
   letter-spacing: 5px;
   font-size: 3rem;
 }
-.meme img{
+#mi{
   border: 5px solid white;
   width: 100%;
 }
@@ -29,10 +29,50 @@ p{
   left: 35%;
   z-index: -1;
 }
-.creepy img{
+#ci{
   width: 100%;
 }
-.creepy p{
+#cp{
+  color: rgb(47, 2, 2);
+}
+#p{
+  color: black;
+  margin-top: 1000px;
+}html{
+  background-color: black;
+  color: white;
+}
+.meme{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+}
+h1{
+  font-family: 'Libre Baskerville', serif;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 3rem;
+}
+#mi{
+  border: 5px solid white;
+  width: 100%;
+}
+p{
+  text-align: center;
+  cursor: help;
+}
+.creepy{
+  width: 30%;
+  position: fixed;
+  top: 100px;
+  left: 35%;
+  z-index: -1;
+}
+#ci{
+  width: 100%;
+}
+#cp{
   color: rgb(47, 2, 2);
 }
 #p{
