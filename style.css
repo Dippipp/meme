@@ -14,7 +14,7 @@ h1{
   letter-spacing: 5px;
   font-size: 3rem;
 }
-.meme > img{
+.meme img{
   border: 5px solid white;
   width: 100%;
 }
@@ -29,10 +29,10 @@ p{
   left: 35%;
   z-index: -1;
 }
-.creepy > img{
+.creepy img{
   width: 100%;
 }
-.creepy > p{
+.creepy p{
   color: rgb(47, 2, 2);
 }
 #p{
